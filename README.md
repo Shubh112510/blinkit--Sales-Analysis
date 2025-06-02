@@ -30,3 +30,4 @@ From 2010 to 2020, sales trends initially rose, peaking in 2018 at $205K, before
 Screenshot/ Demo
 show what the dashboard looks like 
 example:
+https://github.com/Shubh112510/blinkit--Sales-Analysis/blob/main/Blinkit-%20Sales%20SS.png
